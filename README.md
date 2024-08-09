@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   <a href="https://github.com/yj94"> 
+   <a href="https://github.com/g1oves2ali"> 
      <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);欢迎访问G2A的Github!&center=true&size=27"> 
    </a> 
  </h1>
